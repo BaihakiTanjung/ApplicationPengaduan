@@ -1,0 +1,124 @@
+/* Only for snippet */
+.double-nav .breadcrumb-dn {
+    color: #000000;
+}
+
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before {
+    bottom: .5em;
+}
+
+.danger-color-dark {
+    background: linear-gradient(to bottom, #BE0A31, #C60D37);
+}
+
+.danger-color-gradient {
+    background: linear-gradient(to right, #BE0A31, #C60D37);
+}
+
+.dropdown-item:hover {
+    background: linear-gradient(to right, #BE0A31, #C60D37);
+}
+
+div.container {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+div.carousel-multi-item .carousel-indicators .active {
+    background-color: #BE0A31;
+}
+
+div.carousel-multi-item .carousel-indicators li {
+    background-color: #C60D37;
+}
+
+div.file-field.medium .file-path-wrapper {
+    height: 3rem;
+}
+
+div.file-field.medium .file-path-wrapper .file-path {
+    height: 2.8rem;
+}
+
+div.file-field.big-2 .file-path-wrapper {
+    height: 3.7rem;
+}
+
+div.file-field.big-2 .file-path-wrapper .file-path {
+    height: 3.5rem;
+}
+
+div.side-nav .logo-wrapper {
+    height: 100px;
+}
+
+div.side-nav .logo-wrapper img {
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+div.dropdown-menu .dropdown-item:hover {
+    color: white;
+}
+
+div.cascading-admin-card .admin-up .fas {
+    padding: 1.7rem;
+    font-size: 2rem;
+    color: #fff;
+    text-align: left;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+div.cascading-admin-card .admin-up .data {
+    float: right;
+    margin-top: 2rem;
+    text-align: right;
+}
+
+div.user-card {
+  margin-top: 100px;
+}
+
+div.cascading-admin-card .admin-up {
+  margin-left: 4%;
+    margin-right: 4%;
+    margin-top: -1.25rem;
+}
+
+div.profile-card .avatar {
+  max-width: 210px;
+  max-height: 210px;
+  margin-top: -70px;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-border-radius: 50%;
+  border-radius: 10%;
+  overflow: hidden;
+}
+
+div.profile-card {
+  margin-top: 100px;
+}
+
+div.section.team-section .avatar img {
+  max-width: 250px;
+    height: auto;
+}
+
+ul.horizontal-fix li a {
+    padding: .84rem 2.14rem;
+    }
+
+div.step-content {
+    padding: 10px;
+}    
